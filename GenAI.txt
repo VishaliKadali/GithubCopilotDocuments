@@ -1,0 +1,54 @@
+Github Copilot
+Terminal-Press ctrl+I-Opens the github chat window
+
+To open chat from the left tab
+Click on chat icon and type /help, it displays all the options (@workspace)
+@vscode how to change the theme(It will provide you how to change the theme)
+@terminal how can i execute node.js apllication
+how to 
+
+Explore key features of Github copilot(4 main ways to interact with copilot)
+autocomplete(code completions as you type)
+inline chat 
+menu 
+chat window
+
+Lets understand how to subscribe copilot and install into the IDE
+
+Open github.com and provide you credentials (username and password)
+Click on profile icon on the top right corner of the page and click on your copilot
+Opt for either monthly plan or yearly plan or begin with 30 days of trial
+Enter you billing information and click on save button and your github copilot is activated and installed
+
+How to open VS code and configure github copilot
+	On your visual studio click on file menu, navigate to preferences and extensions, search for github copilot and  github copilot chat and click install, once it is done, 
+you should be able to see chat window and copilot with status ready, you can use your github copilot in your ide to accelerate your code development
+
+Install github copilot plugin into intellij
+	Menu(File)>>Settings>>Plugins>>Marketplace>>Search for github copilot and click install button >>Restart IDE 
+	On the right hand side, go to the github chat window and github copilot 
+	
+	
+@@@@@@@@@@@@@@@@@How to leverage copilot to efficiently create and manage selenium tests
+
+Provide detailed prompt instructions to copilot chat editor
+/help
+@workspace
+@workspace /new Scaffold a new selenium automation application to test the website https://the-internet.herokuapp.com. Create one test file for each usecase, with supporting page files. Each test file should include separate functions to perform different tests and usecases. Add a static wait of 5 seconds in each test to allow for manual verification after performing the operations
+
+
+Responsibilities:
+Perform manual and automated testing for the Commercial Digital space.
+Collaborate with lead and developers, analyst in an Agile environment, working in 2-week sprints.
+Participate in Agile ceremonies: Daily Stand Ups, Sprint Planning, Sprint Reviews, Retrospectives, and Backlog Refinement.
+Collaborate with BSA and Development teams to analyze and review features and user stories.
+Create test scenarios, test cases, and test scripts for product features.
+Conduct manual and automated testing for user stories and regression testing for each release.
+Use organizational testing processes for quality assurance.
+Work with Product Owner, BSAs, and Development teams on defect analysis and triage.
+Adhere to SDLC standards and industry testing procedures.
+Support production implementation and validation activities.
+Work collaboratively with other Scrum teams.
+
+
+How to find an element by tagname and attribute 
