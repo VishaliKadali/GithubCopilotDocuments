@@ -52,3 +52,19 @@ Work collaboratively with other Scrum teams.
 
 
 How to find an element by tagname and attribute 
+
+Ask copilot to create manual testcases
+Can you please write software testing  testcase for webtour application login functionality positive and negative testcase in excel table format with column TestCase ID, Requirement ID, Description, Expected Result, Actual Result, Pass/Fail and comments
+ 
+
+@workspace - Ask about your workspace
+/explain - Explain how the code in your active editor works
+/tests - Generate unit tests for the selected code
+/fix - Propose a fix for the problems in the selected code
+/new - Scaffold code for a new file or project in a workspace
+/newNotebook - Create a new Jupyter Notebook
+@vscode - Ask questions about VS Code
+/search - Generate query parameters for workspace search
+/runCommand - Search for and execute a command in VS Code
+@terminal - Ask how to do something in the terminal
+/explain - Explain something in the terminal
